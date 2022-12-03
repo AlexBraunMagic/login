@@ -1,0 +1,12 @@
+.result__login-box,
+.result__password-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.result__login-title,
+.result__password-title {
+    margin: 0;
+}
