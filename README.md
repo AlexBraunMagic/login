@@ -1,1 +1,1 @@
-# Start project - ionic start
+# ionic start
